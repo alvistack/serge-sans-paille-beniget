@@ -1,0 +1,5 @@
+python-beniget source: file-without-copyright-information
+python-beniget source: no-debian-changes
+python-beniget source: source-contains-prebuilt-windows-binary
+python-beniget source: source-is-missing
+python-beniget source: source-package-encodes-python-version
